@@ -1,0 +1,18 @@
+c:\users\mohsin.office\documents\visual studio 2017\Projects\PrisnorsDilemna\PrisnorsDilemna\bin\Debug\netcoreapp1.1\PrisnorsDilemna.deps.json
+c:\users\mohsin.office\documents\visual studio 2017\Projects\PrisnorsDilemna\PrisnorsDilemna\bin\Debug\netcoreapp1.1\PrisnorsDilemna.runtimeconfig.json
+c:\users\mohsin.office\documents\visual studio 2017\Projects\PrisnorsDilemna\PrisnorsDilemna\bin\Debug\netcoreapp1.1\PrisnorsDilemna.runtimeconfig.dev.json
+c:\users\mohsin.office\documents\visual studio 2017\Projects\PrisnorsDilemna\PrisnorsDilemna\bin\Debug\netcoreapp1.1\PrisnorsDilemna.dll
+c:\users\mohsin.office\documents\visual studio 2017\Projects\PrisnorsDilemna\PrisnorsDilemna\bin\Debug\netcoreapp1.1\PrisnorsDilemna.pdb
+c:\users\mohsin.office\documents\visual studio 2017\Projects\PrisnorsDilemna\PrisnorsDilemna\obj\Debug\netcoreapp1.1\PrisnorsDilemna.csprojResolveAssemblyReference.cache
+c:\users\mohsin.office\documents\visual studio 2017\Projects\PrisnorsDilemna\PrisnorsDilemna\obj\Debug\netcoreapp1.1\PrisnorsDilemna.AssemblyInfo.cs
+c:\users\mohsin.office\documents\visual studio 2017\Projects\PrisnorsDilemna\PrisnorsDilemna\obj\Debug\netcoreapp1.1\PrisnorsDilemna.dll
+c:\users\mohsin.office\documents\visual studio 2017\Projects\PrisnorsDilemna\PrisnorsDilemna\obj\Debug\netcoreapp1.1\PrisnorsDilemna.pdb
+D:\Personal Projects\Source\PrisnorsDilemnaTest\PrisnorsDilemna\PrisnorsDilemna\bin\Debug\netcoreapp1.1\PrisnorsDilemna.deps.json
+D:\Personal Projects\Source\PrisnorsDilemnaTest\PrisnorsDilemna\PrisnorsDilemna\bin\Debug\netcoreapp1.1\PrisnorsDilemna.runtimeconfig.json
+D:\Personal Projects\Source\PrisnorsDilemnaTest\PrisnorsDilemna\PrisnorsDilemna\bin\Debug\netcoreapp1.1\PrisnorsDilemna.runtimeconfig.dev.json
+D:\Personal Projects\Source\PrisnorsDilemnaTest\PrisnorsDilemna\PrisnorsDilemna\bin\Debug\netcoreapp1.1\PrisnorsDilemna.dll
+D:\Personal Projects\Source\PrisnorsDilemnaTest\PrisnorsDilemna\PrisnorsDilemna\bin\Debug\netcoreapp1.1\PrisnorsDilemna.pdb
+D:\Personal Projects\Source\PrisnorsDilemnaTest\PrisnorsDilemna\PrisnorsDilemna\obj\Debug\netcoreapp1.1\PrisnorsDilemna.csprojResolveAssemblyReference.cache
+D:\Personal Projects\Source\PrisnorsDilemnaTest\PrisnorsDilemna\PrisnorsDilemna\obj\Debug\netcoreapp1.1\PrisnorsDilemna.AssemblyInfo.cs
+D:\Personal Projects\Source\PrisnorsDilemnaTest\PrisnorsDilemna\PrisnorsDilemna\obj\Debug\netcoreapp1.1\PrisnorsDilemna.dll
+D:\Personal Projects\Source\PrisnorsDilemnaTest\PrisnorsDilemna\PrisnorsDilemna\obj\Debug\netcoreapp1.1\PrisnorsDilemna.pdb
